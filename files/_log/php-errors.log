@@ -1,0 +1,671 @@
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:77                          
+  inc/commonglpi.class.php:262                       Reminder::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:70                          
+  inc/commonglpi.class.php:270                       Reminder::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:98                           
+  inc/commonglpi.class.php:262                       RSSFeed::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:91                           
+  inc/commonglpi.class.php:270                       RSSFeed::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:1512                            
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:32 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:1512                            
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:77                          
+  inc/commonglpi.class.php:262                       Reminder::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:70                          
+  inc/commonglpi.class.php:270                       Reminder::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:98                           
+  inc/commonglpi.class.php:262                       RSSFeed::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:91                           
+  inc/commonglpi.class.php:270                       RSSFeed::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:1512                            
+  front/project.php:43                               Html::header()
+2016-03-24 02:25:58 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:1512                            
+  front/project.php:43                               Html::header()
+2016-03-25 01:43:14 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:77                          
+  inc/commonglpi.class.php:262                       Reminder::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/problem.php:42                               Html::header()
+2016-03-25 01:43:14 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:70                          
+  inc/commonglpi.class.php:270                       Reminder::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/problem.php:42                               Html::header()
+2016-03-25 01:43:14 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:98                           
+  inc/commonglpi.class.php:262                       RSSFeed::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/problem.php:42                               Html::header()
+2016-03-25 01:43:14 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:91                           
+  inc/commonglpi.class.php:270                       RSSFeed::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/problem.php:42                               Html::header()
+2016-03-25 01:43:15 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:77                          
+  inc/commonglpi.class.php:262                       Reminder::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/stat.php:40                                  Html::header()
+2016-03-25 01:43:15 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:70                          
+  inc/commonglpi.class.php:270                       Reminder::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/stat.php:40                                  Html::header()
+2016-03-25 01:43:15 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:98                           
+  inc/commonglpi.class.php:262                       RSSFeed::canView()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/stat.php:40                                  Html::header()
+2016-03-25 01:43:15 [@iZ94svonjw7Z]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/rssfeed.class.php:91                           
+  inc/commonglpi.class.php:270                       RSSFeed::canCreate()
+  inc/html.class.php:1283                            CommonGLPI::getMenuContent()
+  front/stat.php:40                                  Html::header()
